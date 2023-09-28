@@ -1,6 +1,7 @@
 :root {
     --cadium-red: #EA001E;
     --red-wine: #A80010;
+    --wine-berry: #591729;
     --dark-tan: #630D10;
     --lightning-yellow: #FFC331;
     --peach-yellow: #fadea5;
@@ -29,7 +30,7 @@ body {
 
 /* Header CSS */
 header {
-  background-color: var(--dark-tan);
+  background-color: var(--wine-berry);
 }
 
 .header-title {
